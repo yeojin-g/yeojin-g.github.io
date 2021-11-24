@@ -27,7 +27,7 @@ sass:
 comment:
   provider:         "disqus"
   disqus:
-    shortname:      "yeojin-G"
+    shortname:      "yeojin-g-2"
 # Comments
 disqus_shortname:   taylantatli
 
@@ -47,7 +47,7 @@ github-url:         yeojin-g
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          0y_j0
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
