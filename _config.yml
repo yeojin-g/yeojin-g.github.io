@@ -4,8 +4,8 @@ bio:                "Kookmin Univ Software 21"
 description:        "Kookmin Univ Software 21"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/FullMoon.png'
-background:         'assets/img/logo.jpg'
+logo:               'assets/img/FullMoon.jpg'
+background:         'assets/img/night.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://yeojin-g.github.io/
