@@ -24,10 +24,9 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
-comment:
-  provider:         "disqus"
-  disqus:
-    shortname:      "yeojin-g"
+
+# Comments
+disqus_shortname:   yeojin-g
 
 # Social
 # if you don't have any of social below, comment the line.
