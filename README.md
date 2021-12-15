@@ -46,6 +46,6 @@
     <link rel="apple-touch-icon" sizes="72x72" href="{{ site.url }}/assets/img/favicons/moonRabbit-72x72.jpg">
     <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}/assets/img/favicons/moonRabbit-114x114.jpg">
     <link rel="apple-touch-icon" sizes="144x144" href="{{ site.url }}/assets/img/favicons/moonRabbit-144x144.jpg">
-    <link rel="shortcut icon" type="image/png" href="{{ site.url }}/favicon.png" />
+    <link rel="shortcut icon" type="image/jpg" href="{{ site.url }}/favicon.jpg" />
     <link rel="shortcut icon" href="{{ site.url }}/favicon.ico" />
     
