@@ -38,5 +38,14 @@
     
 ## 7. favicon 추가
 ### - favicon으로사용할 이미지를 사이즈에 맞게 준비하여 assets/img/favicon 에 업로드 한다.
+![tempsnip](https://user-images.githubusercontent.com/84260219/146154204-5b58147f-67ec-44dc-97b2-a219dfda0eef.png)
+
 ### - _includes/head.html 파일의 favicon관련 코드를 수정한다.
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" href="{{ site.url }}/assets/img/favicons/moonRabbit.jpg">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ site.url }}/assets/img/favicons/moonRabbit-72x72.jpg">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}/assets/img/favicons/moonRabbit-114x114.jpg">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.url }}/assets/img/favicons/moonRabbit-144x144.jpg">
+    <link rel="shortcut icon" type="image/png" href="{{ site.url }}/favicon.png" />
+    <link rel="shortcut icon" href="{{ site.url }}/favicon.ico" />
     
